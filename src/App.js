@@ -18,7 +18,7 @@ const App = () => {
                <div className={classes.container}>
                    <Container maxWidth="sm">
                         <Typography variant="h2" align="center" color="textPrimary" gutterBottom>
-                            Photo album
+                            Photo album By Mohamed Amine Saadani
                         </Typography>
                         <Typography variant="h5" align="center" color="textSecondary" paragraph>
                             Hello everyone,this is a photo album and i 'am trying to make this sentence as long as possible so we can see how does it look like on the screen !
